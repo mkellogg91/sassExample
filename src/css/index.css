@@ -1,0 +1,23 @@
+body {
+  font: 100% Helvetica, sans-serif;
+  color: #3c412f;
+}
+
+.container {
+  padding: 15px 10% 15px 10%;
+  background-color: #f2f4f7;
+}
+
+.gamecard {
+  background-color: #ffffff;
+  border-radius: 3%;
+  border: solid #ffffff;
+  height: 160px;
+  width: 220px;
+}
+
+.header {
+  background-color: #20232a;
+}
+
+/*# sourceMappingURL=index.css.map */
