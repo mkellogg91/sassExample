@@ -7,23 +7,20 @@ $dark: #20232a
 $background: #f2f4f7    
 
 
-
-
 body
     font: 100% $font-stack
     color: $font-color
+    margin: 0
 
 .container
     padding: 15px 10% 15px 10%
     
     background-color: $background
 
-.gamecard
-    background-color: $secondary
-    border-radius: 3%
-    border: solid $secondary
-    height: 160px
-    width: 220px
+@import header
+@import gamecard
+@import helpers
 
-.header
-    background-color: $dark
+
+
+

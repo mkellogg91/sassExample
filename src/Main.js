@@ -1,5 +1,6 @@
 import React from "react";
 import './css/index.css';
+import 'material-icons';
 import GameCard from "./components/GameCard";
 import Header from "./components/Header";
 
